@@ -2,12 +2,12 @@
 
 ## 不求众人皆知，但求有缘相遇
 
-## 分享的内容有些包含敏感信息，如果你对这些内容感兴趣，欢迎提issue和我讨论
+## 分享的内容有些包含敏感信息，保证真实，如果你对这些内容感兴趣，欢迎提issue和我讨论
 
 # 技术总结
 
 * [服务注册发现的两种模式](https://app.yinxiang.com/fx/b01a08b3-7960-45c4-8b05-99d38515d4ef)
-* [.Net编译平台Rosyln官方手册翻译](https://app.yinxiang.com/fx/56f2c92e-b699-4527-8307-e94103bdaf3e)
+* [.Net编译平台Rosyln官方手册翻译](https://app.yinxiang.com/fx/804cd0ba-9052-43ad-84c7-b85680fa12b5)
 * [Redis+zookeeper手册](https://app.yinxiang.com/fx/5d428728-652c-4e37-8771-e25d79592097)
 * [kubernetes](https://app.yinxiang.com/fx/ed10596a-b8a5-4c37-9a0d-fab0f29522cd)
 * [TCP学习笔记](https://app.yinxiang.com/fx/ce50b130-8b3b-48d8-add4-b2e71449f743)
