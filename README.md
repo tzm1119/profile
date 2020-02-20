@@ -24,4 +24,5 @@
 * [牛人关注](https://afoo.me/)
 
 # 面试官可以从这里开始看
+* [最新简历](https://tzm1119.github.io/)
 * [2019年终总结](https://app.yinxiang.com/fx/a11defd7-140c-4873-a407-54897889d395)
